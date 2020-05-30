@@ -2,7 +2,7 @@
 
 Map your useless <kbd>caps lock</kbd> to *magic* <kbd>control</kbd>. When you press it with
 something else it works like <kbd>control</kbd>. When you press it in isolation it works
-as <kdb>escape</kbd>.
+as <kbd>escape</kbd>.
 
 ## Intallation
 
