@@ -9,7 +9,7 @@ as <kbd>escape</kbd>.
 You need [Hammerspoon](http://www.hammerspoon.org/) installed.
 
 ```bash
-brew cask install hammerspoon
+brew install hammerspoon
 ```
 
 Clone spoon
